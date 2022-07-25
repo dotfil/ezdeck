@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Fix Edith Finch Aspect Ratio
+Exec=curl https://raw.githubusercontent.com/dotfil/ezdeck/main/WRoEF/install.sh | bash -s -- INTERNAL
+Icon=steamdeck-gaming-return
+Terminal=true
+Type=Application
+StartupNotify=false

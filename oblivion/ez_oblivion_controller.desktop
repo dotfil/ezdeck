@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Oblivion Controller Support Install
+Exec=curl https://raw.githubusercontent.com/dotfil/ezdeck/main/oblivion/install.sh | bash -s -- INTERNAL
+Icon=steamdeck-gaming-return
+Terminal=true
+Type=Application
+StartupNotify=false
